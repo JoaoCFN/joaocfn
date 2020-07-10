@@ -1,8 +1,6 @@
 
 # 👨‍💻 João Neto
 
-## Olá! 👋
-
 <p>
 
 <a href="https://www.linkedin.com/in/joao-carlos-ferreira-neto/" target="_blank">
@@ -14,6 +12,8 @@
 </a>
 
 </p>
+
+## Olá! 👋
 
 Meu nome é João Neto, sou Front-End Developer Júnior e atualmente estou estudando:
 - :green_book: Sistemas de Informação (IFBA) 
