@@ -6,6 +6,8 @@
 Meu nome é João Neto, sou Front-End Developer Júnior e atualmente estou estudando:
 - :green_book: Sistemas de Informação (IFBA) 
 - :blue_book: Desenvolvimento de Sistemas (SENAI)
+
+:octocat: <a href="https://joaocfn.github.io">joaocfn.github.io</a>
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
