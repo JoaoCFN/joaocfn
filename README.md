@@ -1,7 +1,7 @@
 
 # 👨‍💻 João Neto
 
-### Olá! 👋
+## Olá! 👋
 
 Meu nome é João Neto, sou Front-End Developer Júnior e atualmente estou estudando:
 - :green_book: Sistemas de Informação (IFBA) 
