@@ -1,7 +1,11 @@
 
-# 👨‍💻 João Carlos Ferreira Neto
+# 👨‍💻 João Neto
 
-### Olá 👋
+### Olá! 👋
+
+Meu nome é João Neto, sou Front-End Developer Júnior e atualmente estou estudando:
+- :green_book: Sistemas de Informação (IFBA) 
+- :blue_book: Desenvolvimento de Sistemas (SENAI)
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -12,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📚
 -->
