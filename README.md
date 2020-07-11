@@ -17,11 +17,9 @@
 
 Meu nome é João Neto, sou Front-End Developer Júnior e sou apaixonado por desenvolvimento web.
 
-#### 📚 Aprendendo atualmente:
-- React e TypeScript 
+#### 📚 Aprendendo atualmente: React e TypeScript 
 
-#### ⚡ Tecnologias: 
-- HTML, CSS, SASS, JavaScript, C, Python e Java.
+#### ⚡ Tecnologias: HTML, CSS, SASS, JavaScript, C, Python e Java.
 
 #### :link: <a href="https://joaocfn.github.io">joaocfn.github.io</a>
 <!--
