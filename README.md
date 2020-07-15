@@ -15,11 +15,19 @@
 
 ## Olá! 👋
 
-Meu nome é João Neto, sou Front-End Developer Júnior e sou apaixonado por desenvolvimento web.
+Meu nome é João Neto e sou Front-End Developer Júnior :computer:.
+
+ Sou estudante de:
+- :green_book: Sistemas de Informação (IFBA)
+- :blue_book: Desenvolvimento de Sistemas (SENAI)
+
+## :pushpin: Sobre mim
+
+-  ⚡ Trabalhando: HTML, CSS, SASS e JavaScript
 
 -  📚 Aprendendo atualmente: React e TypeScript 
 
--  ⚡ Principais Tecnologias: HTML, CSS, SASS e JavaScript
+
 
 #### :link: <a href="https://joaocfn.github.io">joaocfn.github.io</a>
 <!--
