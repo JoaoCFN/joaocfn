@@ -15,9 +15,7 @@
 
 ## Olá! 👋
 
-Meu nome é João Neto e sou Front-End Developer Júnior :computer:.
-
- Sou estudante de:
+Meu nome é João Neto e sou Front-End Developer Júnior. Sou estudante de:
 - :green_book: Sistemas de Informação (IFBA)
 - :blue_book: Desenvolvimento de Sistemas (SENAI)
 
@@ -28,17 +26,5 @@ Meu nome é João Neto e sou Front-End Developer Júnior :computer:.
 -  📚 Aprendendo atualmente: React e TypeScript 
 
 
-
 #### :link: <a href="https://joaocfn.github.io">joaocfn.github.io</a>
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📚
--->
+
