@@ -21,7 +21,7 @@ Meu nome é João Neto e sou Front-End Developer Júnior. Sou estudante de:
 
 ## :pushpin: Sobre mim
 
--  ⚡ Trabalhando: HTML, CSS, SASS e JavaScript
+-  ⚡ Trabalhando com: HTML, CSS, SASS e JavaScript
 
 -  📚 Aprendendo atualmente: React e TypeScript 
 
