@@ -13,7 +13,7 @@
 
 </p>
 
-## Olá! 👋
+## Olá! 👋🏾
 
 Meu nome é João Neto e sou Front-End Developer Júnior. Sou estudante de:
 - :green_book: Sistemas de Informação (IFBA)
