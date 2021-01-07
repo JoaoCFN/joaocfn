@@ -15,13 +15,12 @@
 
 ## Olá! 👋🏾
 
-Meu nome é João Neto e sou Front-End Developer Júnior. Sou estudante de:
+Meu nome é João Neto e atuo como Front-End Developer. Sou Técnico em Desenvolvimento de Sistemas e estudante de:
 - :green_book: Sistemas de Informação (IFBA)
-- :blue_book: Desenvolvimento de Sistemas (SENAI)
 
 ## :pushpin: Sobre mim
 
--  ⚡ Trabalhando com: HTML, CSS, JavaScript, PHP E SQL
+-  ⚡ Trabalhando atualmente na Tel Contact Center como Desenvolvedor Web
 
 -  📚 Aprendendo atualmente: PHP e SQL
 
