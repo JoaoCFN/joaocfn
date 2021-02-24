@@ -22,7 +22,7 @@ Meu nome é João Neto e atuo como Front-End Developer. Sou Técnico em Desenvol
 
 -  ⚡ Trabalhando atualmente na Tel Contact Center como Desenvolvedor Web (HTML, CSS, JS, PHP E SQL)
 
--  📚 Aprendendo atualmente: PHP e SQL
+-  📚 Aprendendo atualmente: React, PHP e SQL
 
 
 #### :link: <a href="https://joaocfn.github.io">joaocfn.github.io</a>
