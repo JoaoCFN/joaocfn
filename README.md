@@ -15,7 +15,9 @@
 
 ## Olá! 👋🏾
 
-Meu nome é João Neto e atuo como Front-End Developer. Sou Técnico em Desenvolvimento de Sistemas (SENAI) e estudante de:
+Meu nome é João Neto e atuo como Front-End Developer. 
+
+Sou Técnico em Desenvolvimento de Sistemas (SENAI) e estudante de:
 - :green_book: Sistemas de Informação (IFBA)
 
 ## :pushpin: Sobre mim
