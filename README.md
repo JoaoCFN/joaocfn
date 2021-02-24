@@ -20,7 +20,7 @@ Meu nome é João Neto e atuo como Front-End Developer.
 Sou Técnico em Desenvolvimento de Sistemas (SENAI) e estudante de:
 - :green_book: Sistemas de Informação (IFBA)
 
-## :pushpin: Sobre mim
+## :pushpin: Mais sobre mim
 
 -  ⚡ Trabalhando atualmente na Tel Contact Center como Desenvolvedor Web (HTML, CSS, JS, PHP E SQL)
 
