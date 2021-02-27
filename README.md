@@ -18,23 +18,24 @@
  
 Meu nome é João Neto e atuo como Desenvolvedor de Software.
 
-📌 Sobre mim
+ ### 📌 Sobre mim
 
 Atualmente trabalho como Analista de Sistemas na Tel Contact Center. Por lá, faço parte do time de desenvolvimento que busca criar soluções modernas, inovadoras e que agregam valor ao trabalho de todos os colaboradores da empresa.
 
 ⚡ Trabalho principalmente com HTML, CSS, JavaScript, PHP e MYSQL.
 
-
-📗 Formação
+### 📗 Formação
 
 Sou formado no Curso Técnico de Desenvolvimento de Sistemas do SENAI e estou cursando:
 
 - Sistemas de Informação (IFBA)
 
 
-📚 Aprendendo atualmente
+### 📚 Aprendendo atualmente
 
 Neste momento, estou focado em aprender mais sobre React, TypeScript, NextJS e PHP.
 
-🔗 joaocfn.github.io
+### 🔗 Meu portfólio
+
+<a href="joaocfn.github.io">joaocfn.github.io</a>
 
