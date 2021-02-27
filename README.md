@@ -37,5 +37,5 @@ Neste momento, estou focado em aprender mais sobre React, TypeScript, NextJS e P
 
 ### 🔗 Meu portfólio
 
-<a href="joaocfn.github.io">joaocfn.github.io</a>
+<a href="https://joaocfn.github.io/">joaocfn.github.io</a>
 
