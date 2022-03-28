@@ -20,9 +20,9 @@ Meu nome é João Neto e atuo como Desenvolvedor de Software.
 
  ### 📌 Sobre mim
 
-Atualmente trabalho como Analista de Sistemas na Tel Contact Center. Por lá, faço parte do time de desenvolvimento que busca criar soluções modernas, inovadoras e que agregam valor ao trabalho de todos os colaboradores da empresa.
+Atualmente trabalho como Suporte Front-end na Autoforce.
 
-⚡ Trabalho principalmente com HTML, CSS, JavaScript, PHP e MYSQL.
+⚡ Trabalho principalmente com HTML, CSS, JavaScript.
 
 ### 📗 Formação
 
@@ -33,7 +33,7 @@ Sou formado no Curso Técnico de Desenvolvimento de Sistemas do SENAI e estou cu
 
 ### 📚 Aprendendo atualmente
 
-Neste momento, estou focado em aprender mais sobre React, TypeScript, NextJS e PHP.
+Neste momento, estou focado em aprender mais sobre Javascript.
 
 ### 🔗 Meu portfólio
 
