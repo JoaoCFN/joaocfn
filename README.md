@@ -33,7 +33,7 @@ Sou formado no Curso Técnico de Desenvolvimento de Sistemas do SENAI e estou cu
 
 ### 📚 Aprendendo atualmente
 
-Neste momento, estou focado em aprender mais sobre Javascript.
+Neste momento, estou focado em aprender mais sobre Ruby e Ruby on Rails.
 
 ### 🔗 Meu portfólio
 
