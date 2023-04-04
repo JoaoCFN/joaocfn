@@ -20,9 +20,9 @@ Meu nome é João Neto e atuo como Desenvolvedor de Software.
 
  ### 📌 Sobre mim
 
-Atualmente trabalho como Suporte Front-end na Autoforce.
+Atualmente trabalho como Desenvolvedor Full Stack na Autoforce.
 
-⚡ Trabalho principalmente com HTML, CSS, JavaScript.
+⚡ Trabalho principalmente com React e Ruby on Rails
 
 ### 📗 Formação
 
