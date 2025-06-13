@@ -9,7 +9,5 @@ Ao longo da minha carreira, venho trabalhando com aplicações robustas e perfor
 
 Além das minhas competências a nível de engenharia, destaco minha boa comunicação e organização, focando sempre em documentação e aplicação dos processos no dia a dia do trabalho. Além de desenvolvedor, atuo na área de comunicação social, pois também sou Radialista.
 
-### 🔗 Meu portfólio
 
-<a href="https://joaocfn.github.io/">joaocfn.github.io</a>
 
