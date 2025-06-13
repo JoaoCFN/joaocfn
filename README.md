@@ -3,24 +3,11 @@
 
 ## Olá! 👋🏾
  
-Meu nome é João Neto e atuo como Desenvolvedor de Software.
+Me chamo João e sou Desenvolvedor Full Stack com mais de 5 anos de experiência atuando com aplicações Web. 
 
- ### 📌 Sobre mim
+Ao longo da minha carreira, venho trabalhando com aplicações robustas e performáticas, que visam atender a demanda de milhares de usuários. Já tive a oportunidade de trabalhar com diversas tecnologias, mas minhas principais experiências são com React JS, Ruby on Rails, PHP, PostgreSQL, Redis, Elastic Search, e algumas plataformas de Cloud como Heroku e AWS.
 
-Atualmente trabalho como Desenvolvedor Full Stack na Autoforce.
-
-⚡ Trabalho principalmente com React e Ruby on Rails
-
-### 📗 Formação
-
-Sou formado no Curso Técnico de Desenvolvimento de Sistemas do SENAI e estou cursando:
-
-- Sistemas de Informação (IFBA)
-
-
-### 📚 Aprendendo atualmente
-
-Neste momento, estou focado em aprender mais sobre Ruby e Ruby on Rails.
+Além das minhas competências a nível de engenharia, destaco minha boa comunicação e organização, focando sempre em documentação e aplicação dos processos no dia a dia do trabalho. Além de desenvolvedor, atuo na área de comunicação social, pois também sou Radialista.
 
 ### 🔗 Meu portfólio
 
