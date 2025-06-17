@@ -3,7 +3,7 @@
 
 ## Olá! 👋🏾
  
-Me chamo João e sou Desenvolvedor Full Stack com mais de 5 anos de experiência atuando com aplicações Web. 
+Me chamo João e sou Desenvolvedor Full Stack com 5 anos de experiência atuando com aplicações Web. 
 
 Ao longo da minha carreira, venho trabalhando com aplicações robustas e performáticas, que visam atender a demanda de milhares de usuários. Já tive a oportunidade de trabalhar com diversas tecnologias, mas minhas principais experiências são com React JS, Ruby on Rails, PHP, PostgreSQL, Redis, Elastic Search, Docker e algumas plataformas de Cloud como Heroku e AWS.
 
